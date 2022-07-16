@@ -12,17 +12,17 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281252848955']
-global.premium = ['0']
-global.ownername = 'Zetaa'
-global.botname = 'Zets Public'
-global.packname = '© ZETS - MULTI DEVICE'
+global.owner = ['6285922480867']
+global.premium = ['6285922480867']
+global.ownername = 'Owner Cyans'
+global.botname = 'Cyanss Public'
+global.packname = '© Cyans - MULTI DEVICE'
 global.gc = 'https://bit.ly/3KMlmv2'
 global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
-global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
-global.limitawal = '100'
+global.linkgc = 'https://chat.whatsapp.com/Gx2HsxHu611J01BKNsdYyH'
+global.limitawal = '15'
 global.author = '@naando.jpeg\n@alya.xzy'
-global.sessionName = 'sessionya'
+global.sessionName = 'session-1.json'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
 global.mess = {
